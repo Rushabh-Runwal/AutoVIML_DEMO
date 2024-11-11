@@ -1,7 +1,7 @@
 # Project Overview
 This project involves comprehensive data exploration (EDA), visualization, and preparation/processing of popular Kaggle datasets, followed by the creation of predictive models using AutoML tools. The main objectives are:
 
-1. **Tabular Data Analysis** (e.g., NYC Taxi or Airbnb dataset)
+1. **Tabular Data Analysis** (e.g., Airbnb dataset)
 2. **Time Series Data Analysis** (e.g., Store Sales dataset)
 
 Each dataset has undergone the following steps:
